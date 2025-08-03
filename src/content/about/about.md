@@ -5,7 +5,7 @@ title: 'About'
 <!--
 This content will be displayed at the top of the index page.
 You can leave this empty if you don’t want to show any content.
--->
+
 
 A static blog theme based on [Astro](https://astro.build), designed for clarity and focus.
 
@@ -13,4 +13,8 @@ With a deliberately minimal design, this layout ensures your content takes cente
 
 Effortlessly share your thoughts in _a calm & dustless space._
 
-Check posts for details and view source on [GitHub](https://github.com/the3ash/astro-chiri).
+Check posts for details and view source on [GitHub](https://github.com/the3ash/astro-chiri). -->
+
+> "The white man made the mistake of letting me read his history books. [laughter] He made the mistake of teaching me that Patrick Henry was a patriot, and George Washington – wasn't nothing non-violent about ol' Pat, or George Washington."
+
+- Malcolm X
