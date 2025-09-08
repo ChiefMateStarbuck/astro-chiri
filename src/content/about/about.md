@@ -15,4 +15,4 @@ Effortlessly share your thoughts in _a calm & dustless space._
 
 Check posts for details and view source on [GitHub](https://github.com/the3ash/astro-chiri). -->
 
-"The white man made the mistake of letting me read his history books. [laughter] He made the mistake of teaching me that Patrick Henry was a patriot, and George Washington – wasn't nothing non-violent about ol' Pat, or George Washington." - Malcolm X
+“The best way to find out if you can trust somebody is to trust them.”
