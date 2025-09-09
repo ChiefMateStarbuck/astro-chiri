@@ -1,5 +1,5 @@
 ---
-title: Sun, oh big Sun
+title: Sun, Oh Big Sun
 pubDate: '2025-09-08'
 ---
 
