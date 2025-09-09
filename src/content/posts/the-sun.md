@@ -24,4 +24,6 @@ Hate, love, kindness, retribution, disdain, motivation, laziness - are all but d
 Love the sun.
 The sun loves you.
 
+![](./_assets/superman.jpeg)
+
 [^Karl]: Karl is the name of the fog the hangs over San Francisco.
