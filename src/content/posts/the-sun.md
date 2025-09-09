@@ -26,4 +26,4 @@ The sun loves you.
 
 [^Karl]: Karl is the name of the fog the hangs over San Francisco.
 
-![](./_assets/superman.jpeg)
+![](../../../public/superman.jpeg)
