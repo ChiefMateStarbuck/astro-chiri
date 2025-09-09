@@ -5,7 +5,7 @@ pubDate: '2025-09-08'
 
 The sun has such a profound effect on mood.
 If you were to sit under Karl’s[^Karl] nose for half a year, you would forget the blissfulness that the sun offers to us every day.
-I love the sun.
+Love the sun.
 The sun is power and joy.
 You feel like Superman.
 
