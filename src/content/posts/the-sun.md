@@ -18,7 +18,7 @@ Emotions of victory, and large capital gain swirling through your body: waves of
 This feeling should hug you every morning.
 Light on your face reminds you of the oneness of the universe.
 I am not I, you are not you. We are one.
-Looking from the ultimate perspective of the universe, we are one.
+Looking from the ultimate perspective of high above all, we will see that we are one.
 Hate, love, kindness, retribution, disdain, motivation, laziness - are all but different shades and façade of the blissful tranquility and peace that is the One; the absolute algorithm; the perfect formula; flawlessly designed.
 
 Love the sun.
