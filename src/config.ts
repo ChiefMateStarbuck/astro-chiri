@@ -7,7 +7,10 @@ export const themeConfig: ThemeConfig = {
     title: 'Samuel Guyah', // Site title
     author: 'Samuel Guyah ', // Author name
     description: 'Blog', // Site description
-    language: 'en-US' // Default language
+    language: 'en-US', // Default language
+    // Twitter/X profile (shown in footer). Update to your handle.
+    // Example: 'https://x.com/your_handle' or 'https://twitter.com/your_handle'
+    twitter: 'https://x.com/SamuelGuyah'
   },
 
   // GENERAL SETTINGS ////////////////////////////////////////////////////////////////////////////////////

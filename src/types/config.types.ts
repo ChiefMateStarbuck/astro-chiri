@@ -13,6 +13,8 @@ export interface SiteInfo {
   author: string
   description: string
   language: string
+  // Optional Twitter/X profile URL to show in footer
+  twitter?: string
 }
 
 // General settings configuration type

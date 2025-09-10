@@ -5,18 +5,17 @@ const today = new Date()
 
 <footer>
   <div class="footer-content">
-    <!-- <div class="copyright">
-      <span class="date">
-        &copy;
-        {today.getFullYear()}
-      </span>
-      {themeConfig.site.author} -->
-    <!-- </div>
     <div class="powered-by">
-      Powered by{' '}
-      <a href="https://astro.build">Astro</a> &{' '}
-      <a href="https://github.com/the3ash/astro-chiri">Chiri</a>
-    </div> -->
+      {themeConfig.site?.twitter && (
+        <a
+          href={themeConfig.site.twitter}
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Follow on Twitter"
+          >Twitter</a
+        >
+      )}
+    </div>
   </div>
 </footer>
 <style>
